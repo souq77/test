@@ -6,7 +6,9 @@ public class offreStage {
 	
 	public offreStage(int interro,String descriptif) {
 		this.id=interro;
-		this.descriptif="yaioyfgai";
+		this.descriptif="gggg";
 	}
-
+	public int yaa() {
+		return 1;
+	}
 }
